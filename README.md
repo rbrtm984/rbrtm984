@@ -2,7 +2,7 @@
 
 **Full-stack engineer building K-12 education software in TypeScript, Node, and Angular.**
 
-I work on identity and access management at ClassLink, where I'm a top contributor to MyApps, the SSO dashboard about 20 million students and teachers log into daily. I also built the internal agentic development practice our team runs on, a library of custom Claude Code skills plus a self-correcting context-memory system that other engineers adopted as standard workflow.
+I work on identity and access management at ClassLink, where I'm a top contributor to MyApps, the SSO dashboard about 20 million students and teachers log into daily. I also helped build the internal agentic development practice our team runs on, a library of custom Claude Code skills plus a self-correcting context-memory system that other engineers adopted as standard workflow.
 
 Before engineering I taught in NYC public schools for four years, including the full COVID remote transition. The classroom side of education software isn't abstract to me.
 
