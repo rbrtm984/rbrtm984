@@ -10,26 +10,6 @@ New York, NY · rbrtm984@gmail.com · [LinkedIn](https://www.linkedin.com/in/rob
 
 ---
 
-## Currently
-
-- Building **[agent-skills repo name]**, an open set of Claude Code skills and a memory pattern for keeping agents honest across long sessions
-- Writing up the architecture behind the production systems I've shipped → **[selected-work](https://github.com/rbrtm984/selected-work)**
-- Finishing a BS in Computer Science at WGU, expected 5/2027
-
----
-
-## What I've shipped
-
-**Production scale.** MyApps serves 20M+ daily users across SAML, OAuth2, OpenID, LTI, and OneRoster. I authored the universal app-launch endpoint that unified launch behavior across 40+ applications and SSO types, and I share ownership of the backend surface.
-
-**AI in a product, not just in my editor.** Icon Builder is a full-stack tool that lets school administrators generate custom icon artwork through the Gemini API. Angular frontend with signal-based undo/redo and a canvas export pipeline, Node/Express/PostgreSQL backend, S3 storage. It replaced a manual support workflow end to end. 31 test files, 302 test cases, including a Playwright e2e suite.
-
-**Agentic development as a team practice.** A size-triaged ticket orchestration spec, a pre-commit review rubric, commit and branch standards, and a memory system that corrects itself when it drifts. The interesting problem wasn't prompting. It was building enough structure that other engineers could get consistent results without babysitting the agent.
-
-**Testing that didn't exist before.** Migrated MyApps from Karma/Jasmine to Vitest, removed about 100 broken legacy specs, and wrote the team's testing documentation.
-
----
-
 ## Stack
 
 **Languages** TypeScript · JavaScript · Python · SQL
